@@ -43,7 +43,7 @@ Steps which needs to be followed are as :-
 
 Finally run the application and if want to check your application hit the url http://localhost:8071/rest/hello/server
 
-## Create Hello Client and communicate with Hello server using Feign
+## Create Hello Client and communicate with Hello Server using Feign
 -  Create maven project and add the required dependencies such as:
    -  spring-cloud-starter-netflix-eureka-client
    -  spring-boot-starter-web and spring-cloud-starter-feign
