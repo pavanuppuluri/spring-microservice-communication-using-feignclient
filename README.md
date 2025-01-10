@@ -1,4 +1,4 @@
-# Spring Microservices Communication Using Feign Client
+# Spring microservices communication using feign client
 Steps which needs to be followed are as :-
 
 - Eureka Server creation
